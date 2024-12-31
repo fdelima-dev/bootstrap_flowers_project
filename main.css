@@ -1,0 +1,9 @@
+input, textarea, button{
+    display: block;
+    margin-top: 15px;
+}
+textarea{
+    height: 200px;
+    resize: none;
+    width: 545px;
+}
